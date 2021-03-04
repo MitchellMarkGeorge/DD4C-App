@@ -1,0 +1,569 @@
+TAG,First name,Last name,Grade,Gender,Advisor,Homeroom,House,Board Type,Status
+1A1,Tsz Yuen,Chan,9,Male,Sproule,D - 112,A,Boarding,New student
+1A1,Brianna,Dai,9,Female,Sproule,D - 112,A,Day,Returning Gr. 8
+1A1,Makailann (Kai),Goodall,9,Male,Sproule,D - 112,A,Day,Returning Gr. 8
+1A1,Jinwen,Ma,9,Female,Sproule,D - 112,A,Day,New student
+1A1,Kiran,Sahajpal,9,Male,Sproule,D - 112,A,Day,New student
+1A1,Martin,Torres,9,Male,Sproule,D - 112,A,Day,Returning Gr. 8
+1A1,Saisha,Vaidya,9,Female,Sproule,D - 112,A,Day,Returning Gr. 8
+1A1,Lipeng,Wan,9,Male,Sproule,D - 112,A,Day,Returning Gr. 8
+1A2,Matthew,Colwill,9,Male,Gomme,C - 104 (Gym),A,Day,New student
+1A2,Avery,Conrad ,9,Female,Gomme,C - 104 (Gym),A,Day,Returning Gr. 8
+1A2,Michael,Ginga,9,Male,Gomme,C - 104 (Gym),A,Boarding,New student
+1A2,Anastasia,Jiline,9,Female,Gomme,C - 104 (Gym),A,Day,Returning Gr. 8
+1A2,Christopher,Selva,9,Male,Gomme,C - 104 (Gym),A,Day,New student
+1A2,Kiera,Vered,9,Female,Gomme,C - 104 (Gym),A,Day,New student
+1A2,Philip,von Finckenstein,9,Male,Gomme,C - 104 (Gym),A,Day,Returning Gr. 8
+1A2,Zile,Wang,9,Male,Gomme,C - 104 (Gym),A,Boarding,New student
+1A3,Jessica,Ages,9,Female,G. Taylor,C - 003,A,Day,New student
+1A3,Loui,Alfredsson,9,Male,G. Taylor,C - 003,A,Day,Returning Gr. 8
+1A3,Seamus,Burges-Sims,9,Male,G. Taylor,C - 003,A,Day,New student
+1A3,Maya,Elattal,9,Female,G. Taylor,C - 003,A,Day,New student
+1A3,Henry,Johnson,9,Male,G. Taylor,C - 003,A,Day,Returning Gr. 8
+1A3,Jacob,Moffatt,9,Male,G. Taylor,C - 003,A,Day,New student
+1A3,Laith,Sorger,9,Male,G. Taylor,C - 003,A,Day,New student
+1A3,Xiaoyue,Zhou,9,Female,G. Taylor,C - 003,A,Day,New student
+1A4,Michelle,Bray,9,Female,J. Moyle,C - 206,A,Day,Returning Gr. 8
+1A4,Elizabeth,Burley,9,Female,J. Moyle,C - 206,A,Day,New student
+1A4,Talia,Cherun,9,Female,J. Moyle,C - 206,A,Day,New student
+1A4,Tyler,Gu,9,Male,J. Moyle,C - 206,A,Day,New student
+1A4,Daniel,Gui,9,Male,J. Moyle,C - 206,A,Day,New student
+1A4,William,Kay,9,Male,J. Moyle,C - 206,A,Day,Returning Gr. 8
+1A4,Ryan,Piché,9,Male,J. Moyle,C - 206,A,Day,Returning Gr. 8
+1A4,Eva,Siao,9,Female,J. Moyle,C - 206,A,Boarding,New student
+1C1,Ryan,Dopking,9,Male,Middleton,A - 126,C,Boarding,New student
+1C1,Alexander,Farinha,9,Male,Middleton,A - 126,C,Day,Returning Gr. 8
+1C1,William (Ben),Grant,9,Male,Middleton,A - 126,C,Day,Returning Gr. 8
+1C1,Emile,Hamzo,9,Male,Middleton,A - 126,C,Day,Returning Gr. 8
+1C1,Brianna,Jette-Wilson,9,Female,Middleton,A - 126,C,Day,New student
+1C1,Jada-Claire,Ogolo,9,Female,Middleton,A - 126,C,Boarding,New student
+1C1,Ella,Rennison,9,Female,Middleton,A - 126,C,Day,New student
+1C1,Kyle,Saurman,9,Male,Middleton,A - 126,C,Day,Returning Gr. 8
+1C2,Alex,Anghel,9,Male,Drenth,B - 201,C,Day,New student
+1C2,Kieren,Barnes,9,Male,Drenth,B - 201,C,Day,Returning Gr. 8
+1C2,Sarah,Bruce,9,Female,Drenth,B - 201,C,Day,New student
+1C2,Natalie,Douglas,9,Female,Drenth,B - 201,C,Day,Returning Gr. 8
+1C2,Charlie,Mackellar,9,Male,Drenth,B - 201,C,Day,New student
+1C2,Theodore,Stibral-Mccrystal,9,Male,Drenth,B - 201,C,Day,New student
+1C2,Hong Duc,Tran-Le,9,Male,Drenth,B - 201,C,Day,New student
+1C2,Hanyi,Zhang,9,Female,Drenth,B - 201,C,Day,Returning Gr. 8
+1C3,Tiana,Dobaj,9,Female,Solomon,A - 209,C,Day,New student
+1C3,Edwin,Fleming,9,Male,Solomon,A - 209,C,Day,New student
+1C3,Hajun,Kim,9,Male,Solomon,A - 209,C,Day,New student
+1C3,Xi,Li,9,Male,Solomon,A - 209,C,Day,Returning Gr. 8
+1C3,Nicolas,Lindsay,9,Male,Solomon,A - 209,C,Day,New student
+1C3,Yutong,Liu,9,Female,Solomon,A - 209,C,Day,Returning Gr. 8
+1C3,Anahita,McDonagh-Mahallati,9,Female,Solomon,A - 209,C,Day,Returning Gr. 8
+1C3,Alexandre,Quirion,9,Male,Solomon,A - 209,C,Day,New student
+1C3,Carol,Wang,9,Female,Solomon,A - 209,C,Day,New student
+1C4,Giorgios,Aliferis,9,Male,Primeau,A - 110,C,Day,Returning Gr. 8
+1C4,Grace,Campbell,9,Female,Primeau,A - 110,C,Day,New student
+1C4,Kaari,Hall,9,Female,Primeau,A - 110,C,Day,Returning Gr. 8
+1C4,Tony,He,9,Male,Primeau,A - 110,C,Day,Returning Gr. 8
+1C4,Corey,Muscant,9,Male,Primeau,A - 110,C,Day,New student
+1C4,Noémie,Pound,9,Female,Primeau,A - 110,C,Day,New student
+1C4,Joshua,Saunders,9,Male,Primeau,A - 110,C,Day,Returning Gr. 8
+1C4,Alexis,Taylor,9,Female,Primeau,A - 110,C,Day,New student
+1N1,Kaitlin,Atanasiu,9,Female,Howlett,D - 133 (Mital),N,Day,Returning Gr. 8
+1N1,Kathlyn,Buckley,9,Female,Howlett,D - 133 (Mital),N,Day,New student
+1N1,Nerisa,Duthie,9,Female,Howlett,D - 133 (Mital),N,Day,Returning Gr. 8
+1N1,Nicolai,Gorbulia,9,Male,Howlett,D - 133 (Mital),N,Day,New student
+1N1,Naeem,Jadavji,9,Male,Howlett,D - 133 (Mital),N,Day,Returning Gr. 8
+1N1,Ira,Kimura,9,Male,Howlett,D - 133 (Mital),N,Boarding,New student
+1N1,Caius,O'Sullivan,9,Male,Howlett,D - 133 (Mital),N,Day,Returning Gr. 8
+1N1,Emma,Tam,9,Female,Howlett,D - 133 (Mital),N,Boarding,New student
+1N2,Noa,Duran Gonzalez,9,Female,Nevitte,C - 112,N,Day,Returning Gr. 8
+1N2,Ethan,Edmondson,9,Male,Nevitte,C - 112,N,Day,Returning Gr. 8
+1N2,Jalen,Flindall,9,Male,Nevitte,C - 112,N,Day,New student
+1N2,Patrick,Huckabone,9,Male,Nevitte,C - 112,N,Day,Returning Gr. 8
+1N2,Terezia,Koziakova,9,Female,Nevitte,C - 112,N,Day,New student
+1N2,Isabel,Liebenberg,9,Female,Nevitte,C - 112,N,Day,New student
+1N2,Adam,Mulugeta,9,Male,Nevitte,C - 112,N,Day,Returning Gr. 8
+1N2,Isaac,Thoppil,9,Male,Nevitte,C - 112,N,Day,New student
+1N3,Sophie,Campbell,9,Female,Lewicki,A - 206,N,Day,New student
+1N3,Summer,Lagimodiere,9,Female,Lewicki,A - 206,N,Day,Returning Gr. 8
+1N3,Patrick,Landry,9,Male,Lewicki,A - 206,N,Day,New student
+1N3,Janine,Mao,9,Female,Lewicki,A - 206,N,Day,Returning Gr. 8
+1N3,James,Matsuzaki,9,Male,Lewicki,A - 206,N,Day,Returning Gr. 8
+1N3,Alexander,O'Sullivan,9,Male,Lewicki,A - 206,N,Day,Returning Gr. 8
+1N3,Henry,Ramsden,9,Male,Lewicki,A - 206,N,Day,Returning Gr. 8
+1N3,James,Reid,9,Male,Lewicki,A - 206,N,Day,New student
+1N3,Zilu,Wang,9,Female,Lewicki,A - 206,N,Boarding,New student
+1N4,Erica,Brulotte,9,Female,Abokor,A - 210,N,Day,Returning Gr. 8
+1N4,Qasim,Ebsim,9,Male,Abokor,A - 210,N,Day,Returning Gr. 8
+1N4,Villads,Eskjaer,9,Male,Abokor,A - 210,N,Day,"Returning Gr. 7
+(Skipping Gr. 8)"
+1N4,Quinn,Harris Fowell,9,Male,Abokor,A - 210,N,Day,Returning Gr. 8
+1N4,Sophia,Mrak,9,Female,Abokor,A - 210,N,Day,New student
+1N4,Francis,Ouma,9,Male,Abokor,A - 210,N,Boarding,New student
+1N4,Luciana,Schmilinsky Boccheciampe,9,Female,Abokor,A - 210,N,Day,New student
+1N4,Ningyi,Zhu,9,Female,Abokor,A - 210,N,Day,New student
+1W1,Noah,Benchimol,9,Male,Chrolavicius,D - 203,W,Day,New student
+1W1,Emma,Fleming-Pijuan,9,Female,Chrolavicius,D - 203,W,Day,New student
+1W1,Leila,Huang,9,Female,Chrolavicius,D - 203,W,Day,Returning Gr. 8
+1W1,Johnson,Imaniraguha,9,Male,Chrolavicius,D - 203,W,Boarding,New student
+1W1,Yilin,Liu,9,Male,Chrolavicius,D - 203,W,Day,Returning Gr. 8
+1W1,Picabo,So,9,Female,Chrolavicius,D - 203,W,Day,Returning Gr. 8
+1W1,Thomas,Storer,9,Male,Chrolavicius,D - 203,W,Day,Returning Gr. 8
+1W1,Jiaqi,Zhang,9,Female,Chrolavicius,D - 203,W,Day,New student
+1W2,Adam,Allam,9,Male,O'Boyle,Maclaren Hall,W,Day,Returning Gr. 8
+1W2,Jacqueline,Brown,9,Female,O'Boyle,Maclaren Hall,W,Day,New student
+1W2,Salem,Cherif,9,Male,O'Boyle,Maclaren Hall,W,Day,New student
+1W2,Deborah,Okpo,9,Female,O'Boyle,Maclaren Hall,W,Boarding,New student
+1W2,Blaise,Parsi-Boetig,9,Male,O'Boyle,Maclaren Hall,W,Day,New student
+1W2,Leqi,Shen,9,Male,O'Boyle,Maclaren Hall,W,Day,New student
+1W2,Luke,Sullivan,9,Male,O'Boyle,Maclaren Hall,W,Day,New student
+1W2,Leon,Wadii Batti,9,Male,O'Boyle,Maclaren Hall,W,Day,Returning Gr. 8
+1W3,Sina,Akhavansafar,9,Male,Bettencourt,B - 201,W,Boarding,New student
+1W3,Santiago,Burgsmuller,9,Male,Bettencourt,B - 201,W,Day,New student
+1W3,Tatum,Fallis,9,Female,Bettencourt,B - 201,W,Day,Returning Gr. 8
+1W3,Nolan,Kim,9,Male,Bettencourt,B - 201,W,Day,New student
+1W3,Jenny,Liao,9,Female,Bettencourt,B - 201,W,Day,New student
+1W3,Schae,Macrae,9,Female,Bettencourt,B - 201,W,Day,Returning Gr. 8
+1W3,Jiaying,Mu,9,Female,Bettencourt,B - 201,W,Boarding,New student
+1W3,Riley,So,9,Male,Bettencourt,B - 201,W,Day,Returning Gr. 8
+1W4,Aden,Carroll,9,Male,Plitnikas,D - 126 (Library),W,Day,New student
+1W4,Maninthorn,Jaitrong,9,Female,Plitnikas,D - 126 (Library),W,Day,Returning Gr. 8
+1W4,Yue Rou,Lin,9,Female,Plitnikas,D - 126 (Library),W,Day,Returning Gr. 8
+1W4,Wanjiru,Myers,9,Female,Plitnikas,D - 126 (Library),W,Day,New student
+1W4,Rémi,Newbury,9,Male,Plitnikas,D - 126 (Library),W,Day,Returning Gr. 8
+1W4,Sophia,Nicolela,9,Female,Plitnikas,D - 126 (Library),W,Boarding,New student
+1W4,Arthur,Ribas Pinel,9,Male,Plitnikas,D - 126 (Library),W,Day,New student
+1W4,William,Souaid,9,Male,Plitnikas,D - 126 (Library),W,Day,Returning Gr. 8
+2A1,Sahana,Asokan,10,Female,Larock,C - 113,A,Day,returning
+2A1,Alice,Cheng,10,Female,Larock,C - 113,A,Day,returning
+2A1,Faltas,Compaore,10,Male,Larock,C - 113,A,Day,returning
+2A1,Leia,Johst,10,Female,Larock,C - 113,A,Day,returning
+2A1,Imad,Khan,10,Male,Larock,C - 113,A,Day,returning
+2A1,Shiqi,Kuang,10,Female,Larock,C - 113,A,Day,returning
+2A1,Euan,Pearson,10,Male,Larock,C - 113,A,Day,returning
+2A1,Lindsay,Robb,10,Female,Larock,C - 113,A,Day,new
+2A1,Jordan,Shinder,10,Male,Larock,C - 113,A,Day,returning
+2A1,Rohan,Vermeij,10,Male,Larock,C - 113,A,Day,returning
+2A1,Haoran,Zhang,10,Male,Larock,C - 113,A,Day,returning
+2A2,Zeid,Abu Shaar,10,Male,Goodwin,D - 102,A,Day,returning
+2A2,Madelyne,Ayoub,10,Female,Goodwin,D - 102,A,Day,returning
+2A2,Ryan,Coffen,10,Male,Goodwin,D - 102,A,Day,returning
+2A2,Natalie,Feberova,10,Female,Goodwin,D - 102,A,Day,returning
+2A2,Tsen-Yen,Liao,10,Female,Goodwin,D - 102,A,Boarding,returning
+2A2,Martin,McKellar,10,Male,Goodwin,D - 102,A,Day,returning
+2A2,Aniela,Onuoha,10,Female,Goodwin,D - 102,A,Day,returning
+2A2,Ryan,Wagner,10,Male,Goodwin,D - 102,A,Day,returning
+2A2,Samuel,Walker,10,Male,Goodwin,D - 102,A,Day,returning
+2A2,Ziyun,Zhou,10,Female,Goodwin,D - 102,A,Boarding,returning
+2A3,Fodé,Doumbouya,10,Male,McCready,C - 002,A,Day,returning
+2A3,Ava,Fallah,10,Female,McCready,C - 002,A,Day,returning
+2A3,Muhammad,Ibrahim,10,Male,McCready,C - 002,A,Boarding,returning
+2A3,Aiya,Kabilova,10,Female,McCready,C - 002,A,Boarding,new
+2A3,Katelyn,Meagher,10,Female,McCready,C - 002,A,Day,returning
+2A3,Sasha,Mee,10,Female,McCready,C - 002,A,Day,returning
+2A3,Shi Han,Peng,10,Female,McCready,C - 002,A,Boarding,returning
+2A3,Jasper,Rockburn,10,Male,McCready,C - 002,A,Day,returning
+2A3,Xingjian,Tian,10,Male,McCready,C - 002,A,Boarding,returning
+2A3,Daniel,Vered,10,Male,McCready,C - 002,A,Day,returning
+2A4,Eva,Alperovich,10,Female,D. Taylor,D - 104,A,Boarding,new
+2A4,Laura,Delage,10,Female,D. Taylor,D - 104,A,Day,new
+2A4,Amir,Fadare,10,Male,D. Taylor,D - 104,A,Day,new
+2A4,Justus,Koch,10,Male,D. Taylor,D - 104,A,Boarding,new
+2A4,Xinyuan,Liang,10,Female,D. Taylor,D - 104,A,Day,new
+2A4,Harish,Manoharan,10,Male,D. Taylor,D - 104,A,Day,new
+2A4,Liam,O'Neill,10,Male,D. Taylor,D - 104,A,Day,new
+2A4,Helen,Scheja,10,Female,D. Taylor,D - 104,A,Boarding,new
+2A4,Kejian,Shi,10,Male,D. Taylor,D - 104,A,Boarding,new
+2A4,Jingyi,Zou,10,Female,D. Taylor,D - 104,A,Day,new
+2C1,Ava,Antonini,10,Female,Greig,B - 202,C,Day,returning
+2C1,Christopher,Barlas,10,Male,Greig,B - 202,C,Day,returning
+2C1,Benjamin,Baxter,10,Male,Greig,B - 202,C,Day,returning
+2C1,Mathias,Conde,10,Male,Greig,B - 202,C,Day,returning
+2C1,Grace,Cooper,10,Female,Greig,B - 202,C,Day,returning
+2C1,Hyebin,Jung,10,Female,Greig,B - 202,C,Boarding,returning
+2C1,Yasmin,Samad,10,Female,Greig,B - 202,C,Day,new
+2C1,Russ,Shantz,10,Male,Greig,B - 202,C,Day,returning
+2C1,Henry,Waters,10,Male,Greig,B - 202,C,Day,returning
+2C1,Hong Yi,Wu,10,Male,Greig,B - 202,C,Boarding,returning
+2C1,Chet,Yemm,10,Male,Greig,B - 202,C,Day,returning
+2C2,Daniel,Adeleye,10,Male,Godkin,C - 204,C,Day,returning
+2C2,Tamar,Bedrosyan,10,Female,Godkin,C - 204,C,Day,returning
+2C2,Kathryn (Katie),Boswell,10,Female,Godkin,C - 204,C,Day,returning
+2C2,Wyatt,Carr,10,Male,Godkin,C - 204,C,Day,returning
+2C2,Yicheng,Chu,10,Male,Godkin,C - 204,C,Boarding,returning
+2C2, Hong Anh,Doan,10,Female,Godkin,C - 204,C,Day,returning
+2C2,Camila,Hernandez Oviedo,10,Female,Godkin,C - 204,C,Day,returning
+2C2,Chekwubechuku,Molokwu,10,Female,Godkin,C - 204,C,Boarding,new
+2C2,Vishal,Nagpal,10,Male,Godkin,C - 204,C,Day,returning
+2C2,William,Parkes,10,Male,Godkin,C - 204,C,Day,returning
+2C3,Elfin,Akteke,10,Female,B. Moyle,B - 205,C,Boarding,returning
+2C3,Kaiyuan,Chen,10,Male,B. Moyle,B - 205,C,Day,returning
+2C3,Viggo,Dalvi,10,Male,B. Moyle,B - 205,C,Day,new
+2C3,Robert,Di Silvestro,10,Male,B. Moyle,B - 205,C,Day,returning
+2C3,Dana,Katsay,10,Female,B. Moyle,B - 205,C,Boarding,new
+2C3,Byron,Khatchadourian,10,Male,B. Moyle,B - 205,C,Day,returning
+2C3,Ava,Li,10,Female,B. Moyle,B - 205,C,Day,returning
+2C3,Cindy,Liang,10,Female,B. Moyle,B - 205,C,Day,returning
+2C3,Henry,Maidoh,10,Male,B. Moyle,B - 205,C,Day,returning
+2C3,Lincoln,Sheaff,10,Male,B. Moyle,B - 205,C,Day,returning
+2C3,Xiwei,Wang,10,Female,B. Moyle,B - 205,C,Boarding,new
+2C4,Ariam,Biniam Tesfagaber,10,Female,Novick,A - 125,C,Day,new
+2C4,Thomas,Boehm,10,Male,Novick,A - 125,C,Day,new
+2C4,Quinn,Hewison,10,Male,Novick,A - 125,C,Boarding,new
+2C4,Talia,Jakira,10,Female,Novick,A - 125,C,Day,new
+2C4,Yali (Yolanda),Lu,10,Female,Novick,A - 125,C,Boarding,new
+2C4,Mackenzie,Roy,10,Female,Novick,A - 125,C,Day,new
+2C4,(Frederick) Oscar,Ruiz Sallway,10,Male,Novick,A - 125,C,Day,new
+2C4,Mohamed Birane,Sy,10,Male,Novick,A - 125,C,Day,new
+2C4,Zoe,Walters,10,Female,Novick,A - 125,C,Day,new
+2C4,Yueyang,Zhang,10,Male,Novick,A - 125,C,Day,new
+2N1,Dean,Dimakopoulos,10,Male,Ionta,D - 203,N,Day,returning
+2N1,Alexander,Kent,10,Male,Ionta,D - 203,N,Day,new
+2N1,Christian,Lapner,10,Male,Ionta,D - 203,N,Day,returning
+2N1,Esha,Mital,10,Female,Ionta,D - 203,N,Day,returning
+2N1,Katica,Mlikan,10,Female,Ionta,D - 203,N,Day,returning
+2N1,Andrew,Noble,10,Male,Ionta,D - 203,N,Day,returning
+2N1,Eric,Normandeau,10,Male,Ionta,D - 203,N,Day,returning
+2N1,Gwenyth,Parker,10,Female,Ionta,D - 203,N,Day,returning
+2N1,Anne,Scott,10,Female,Ionta,D - 203,N,Day,returning
+2N1,Xinzhou,Yao,10,Male,Ionta,D - 203,N,Day,returning
+2N2,Zachary,Arbuthnot,10,Male,Wearring,B - 005,N,Day,returning
+2N2,Dai,Yonglai,10,Male,Wearring,B - 005,N,Boarding,new
+2N2,Liad,Deutsch,10,Male,Wearring,B - 005,N,Day,returning
+2N2,Nathan,Hann,10,Male,Wearring,B - 005,N,Day,returning
+2N2,Catherine,McCourt,10,Female,Wearring,B - 005,N,Day,returning
+2N2,Nooraiz,Noorani,10,Male,Wearring,B - 005,N,Day,returning
+2N2,Alex,Normandeau,10,Male,Wearring,B - 005,N,Day,returning
+2N2,Phillip,Ouma,10,Male,Wearring,B - 005,N,Boarding,returning
+2N2,Youbine,Park,10,Female,Wearring,B - 005,N,Day,returning
+2N2,Hannah,Salehe,10,Female,Wearring,B - 005,N,Day,returning
+2N3,Manaf,Almikhlafi,10,Male,Beedell,B - 003,N,Day,returning
+2N3,Evan,Dunnigan,10,Male,Beedell,B - 003,N,Day,returning
+2N3,James,Goldberg,10,Male,Beedell,B - 003,N,Day,returning
+2N3,Hanna,Klepaczek,10,Female,Beedell,B - 003,N,Day,returning
+2N3,Ariana,Kubelik,10,Female,Beedell,B - 003,N,Day,returning
+2N3,John,Laquerre,10,Male,Beedell,B - 003,N,Day,returning
+2N3,Siheng,Liang,10,Male,Beedell,B - 003,N,Day,returning
+2N3,Eric,Moen,10,Male,Beedell,B - 003,N,Day,returning
+2N3,Jaime,White,10,Female,Beedell,B - 003,N,Day,returning
+2N4,Noelle,Aldous,10,Female,Lane/Mooney,C - 206,N,Day,new
+2N4,Georgia,Davidson,10,Female,Lane/Mooney,C - 206,N,Day,new
+2N4,Vera,Escobar,10,Female,Lane/Mooney,C - 206,N,Boarding,new
+2N4,Zoe,Fedoruk,10,Female,Lane/Mooney,C - 206,N,Day,new
+2N4,Romane,Gallone,10,Female,Lane/Mooney,C - 206,N,Day,new
+2N4,Lynn,Holz,10,Female,Lane/Mooney,C - 206,N,Boarding,new
+2N4,Malcolm,Morency,10,Male,Lane/Mooney,C - 206,N,Boarding,new
+2N4,Luisa,Painter,10,Female,Lane/Mooney,C - 206,N,Day,new
+2N4,Yixiang,Zhang,10,Male,Lane/Mooney,C - 206,N,Day,new
+2W1,Axelle,Dolan,10,Female,Lavergne,A - 207,W,Day,returning
+2W1,Megan,Engelhardt,10,Female,Lavergne,A - 207,W,Day,returning
+2W1,Brian,Fujikawa,10,Male,Lavergne,A - 207,W,Day,returning
+2W1,Matthieu,Gauthier,10,Male,Lavergne,A - 207,W,Boarding,returning
+2W1,John,Klar,10,Male,Lavergne,A - 207,W,Day,returning
+2W1,Victoria,Li,10,Female,Lavergne,A - 207,W,Day,returning
+2W1,Keelin,Saranchuk,10,Female,Lavergne,A - 207,W,Day,returning
+2W1,Katherine,Souaid,10,Female,Lavergne,A - 207,W,Day,returning
+2W1,Johnathan,West,10,Male,Lavergne,A - 207,W,Day,returning
+2W1,James,Yang,10,Male,Lavergne,A - 207,W,Day,returning
+2W2,Ghada,Alshuriti,10,Female,Lambert,A - 109,W,Day,returning
+2W2,Danial,Gillan,10,Male,Lambert,A - 109,W,Day,returning
+2W2,Joshua,Imaniraguha,10,Male,Lambert,A - 109,W,Boarding,new
+2W2,Shayan,Jalili-Ticona,10,Male,Lambert,A - 109,W,Day,returning
+2W2,Nicholas,Mazzarotti,10,Male,Lambert,A - 109,W,Day,returning
+2W2,Kieran,Mcdaniel,10,Male,Lambert,A - 109,W,Day,new
+2W2,YiLing,Qiu,10,Female,Lambert,A - 109,W,Day,returning
+2W2,Ibrahim,Shaaban,10,Male,Lambert,A - 109,W,Day,returning
+2W2,Eva,Staples,10,Female,Lambert,A - 109,W,Day,returning
+2W2,Yuqi,Sun,10,Female,Lambert,A - 109,W,Day,returning
+2W2,Quinten,Verkammen,10,Male,Lambert,A - 109,W,Day,returning
+2W3,Jackson,Bon,10,Male,MacKinnon,A - 000,W,Day,returning
+2W3,Cameron,Brown,10,Male,MacKinnon,A - 000,W,Day,returning
+2W3,Lola,Gazale,10,Female,MacKinnon,A - 000,W,Day,returning
+2W3,Yuyao,Liu,10,Female,MacKinnon,A - 000,W,Day,returning
+2W3,Alexander,Milne,10,Male,MacKinnon,A - 000,W,Day,returning
+2W3,William,Paulsen,10,Male,MacKinnon,A - 000,W,Day,returning
+2W3,Morgan,Powter,10,Female,MacKinnon,A - 000,W,Day,returning
+2W3,Miriam,Rida,10,Female,MacKinnon,A - 000,W,Day,returning
+2W3,Michael,Seyoum,10,Male,MacKinnon,A - 000,W,Day,returning
+2W3,Wenhan,Xing,10,Male,MacKinnon,A - 000,W,Day,returning
+3A1,Dema,Alchalabi,11,Female,G-L Godkin,D - 113,A,Day,returning
+3A1,Avery,Ang,11,Female,G-L Godkin,D - 113,A,Day,returning
+3A1,Nicholas,Burley,11,Male,G-L Godkin,D - 113,A,Day,returning
+3A1,Carla,Clunie,11,Female,G-L Godkin,D - 113,A,Day,returning
+3A1,Leopold,Ehrlich,11,Male,G-L Godkin,D - 113,A,Day,returning
+3A1,Daria,Fincham,11,Female,G-L Godkin,D - 113,A,Day,returning
+3A1,Lauchlann,Goodall,11,Male,G-L Godkin,D - 113,A,Day,returning
+3A1,Caleb,Hailemariam,11,Male,G-L Godkin,D - 113,A,Boarding,returning
+3A1,Ian,Lindsay,11,Male,G-L Godkin,D - 113,A,Day,returning
+3A1,Yifan,Miao,11,Female,G-L Godkin,D - 113,A,Day,returning
+3A2,Nazifa,Ahmed,11,Female,R. Holman,D - 108,A,Boarding,new
+3A2,Meifan,Chen,11,Female,R. Holman,D - 108,A,Day,returning
+3A2,Joshua,Dick,11,Male,R. Holman,D - 108,A,Day,returning
+3A2,Sarah,Doshi,11,Female,R. Holman,D - 108,A,Day,returning
+3A2,Coryn,Erickson,11,Female,R. Holman,D - 108,A,Day,returning
+3A2,Einar,Fredriksen,11,Male,R. Holman,D - 108,A,Day,new
+3A2,Weizhi,Fuller,11,Male,R. Holman,D - 108,A,Day,returning
+3A2,Andile,Mabaleka,11,Male,R. Holman,D - 108,A,Day,returning
+3A2,Ronan,Sahajpal,11,Male,R. Holman,D - 108,A,Day,returning
+3A2,Isha,Walia,11,Female,R. Holman,D - 108,A,Day,returning
+3A3,Kathleen,Bai,11,Female,Beltran,C - 105 (Gym),A,Day,returning
+3A3,Julien,Chausse,11,Male,Beltran,C - 105 (Gym),A,Day,new
+3A3,Celine,Fu,11,Female,Beltran,C - 105 (Gym),A,Day,returning
+3A3,Nikita,Goncharov,11,Male,Beltran,C - 105 (Gym),A,Boarding,returning
+3A3,Richard,Ilianu,11,Male,Beltran,C - 105 (Gym),A,Day,returning
+3A3,Alexandra,Johnson,11,Female,Beltran,C - 105 (Gym),A,Day,returning
+3A3,Quinn,Newberry,11,Male,Beltran,C - 105 (Gym),A,Day,new
+3A3,William,Scrivens,11,Male,Beltran,C - 105 (Gym),A,Day,returning
+3A3,Ella,von Finckenstein,11,Female,Beltran,C - 105 (Gym),A,Day,returning
+3A3,Nora,Zolfaghari,11,Female,Beltran,C - 105 (Gym),A,Day,returning
+3C1,Kaden,Augustin,11,Male,Usmani,D - 118,C,Day,returning
+3C1,Armaan,Bhulji,11,Male,Usmani,D - 118,C,Day,returning
+3C1,Connor,Douglas,11,Male,Usmani,D - 118,C,Day,returning
+3C1,Jocelyn,Emmerson,11,Female,Usmani,D - 118,C,Day,returning
+3C1,Chantalia,Fevrier-President,11,Female,Usmani,D - 118,C,Day,returning
+3C1,Anika,Hall,11,Female,Usmani,D - 118,C,Day,returning
+3C1,Rizhe,Jia,11,Female,Usmani,D - 118,C,Day,returning
+3C1,Zoe,Mantas,11,Female,Usmani,D - 118,C,Day,new
+3C1,Tuan Khang,Nguyen,11,Male,Usmani,D - 118,C,Boarding,returning
+3C1,Thaddeus,Orlich,11,Male,Usmani,D - 118,C,Day,returning
+3C2,Tristan,Dilawri,11,Male,Boivin,D - 116,C,Day,returning
+3C2,Matthew,Dobaj,11,Male,Boivin,D - 116,C,Day,returning
+3C2,Benjamin,Little,11,Male,Boivin,D - 116,C,Day,returning
+3C2,Alina,Mukhlisova,11,Female,Boivin,D - 116,C,Boarding,new
+3C2,Jack,Parkes,11,Male,Boivin,D - 116,C,Day,returning
+3C2,Émilie,Roy,11,Female,Boivin,D - 116,C,Day,returning
+3C2,Sapna,Singh,11,Female,Boivin,D - 116,C,Day,returning
+3C2,Elizabeth,Waters,11,Female,Boivin,D - 116,C,Day,returning
+3C3,Nathan,Amankwah,11,Male,Harris,Virtual,C,Day,returning
+3C3,Emily ,Bruce,11,Female,Harris,Virtual,C,Day,new
+3C3,Kayla,Gordon,11,Female,Harris,Virtual,C,Day,returning
+3C3,Samuel,Grant,11,Male,Harris,Virtual,C,Day,returning
+3C3,Hongchi,Lu,11,Male,Harris,Virtual,C,Boarding,returning
+3C3,Abigail,Parkes,11,Female,Harris,Virtual,C,Day,returning
+3C3,Audrey,Quirion,11,Female,Harris,Virtual,C,Day,returning
+3C3,Hugh,Rigassio,11,Male,Harris,Virtual,C,Day,returning
+3C3,Samer,Roz,11,Male,Harris,Virtual,C,Boarding,new
+3C3,Savanna,Tinker,11,Female,Harris,Virtual,C,Boarding,returning
+3N1,Ellie,Eriksson,11,Female,Doleman,D - 202,N,Day,returning
+3N1,Selma,Eskjaer,11,Female,Doleman,D - 202,N,Day,returning
+3N1,Olivia,Heckmann,11,Female,Doleman,D - 202,N,Day,returning
+3N1,Maggie,Jin,11,Female,Doleman,D - 202,N,Day,returning
+3N1,Harry,Laquerre,11,Male,Doleman,D - 202,N,Day,returning
+3N1,Karen,Li,11,Female,Doleman,D - 202,N,Day,returning
+3N1,Khalid,Mlaekah,11,Male,Doleman,D - 202,N,Day,returning
+3N1,Amirhossein,Pourabbas,11,Male,Doleman,D - 202,N,Day,returning
+3N1,Nora,Salmeron Gomez,11,Female,Doleman,D - 202,N,Boarding,new
+3N1,Patrick,Tam,11,Male,Doleman,D - 202,N,Boarding,returning
+3N1,Hugh,Warren,11,Male,Doleman,D - 202,N,Day,returning
+3N2,Vardan,Deroche,11,Male,Desfosses,A - 216,N,Day,returning
+3N2,Charles,Frank,11,Male,Desfosses,A - 216,N,Day,returning
+3N2,Miwa,Hayashi,11,Female,Desfosses,A - 216,N,Day,returning
+3N2,Hendrik,Johst,11,Male,Desfosses,A - 216,N,Day,returning
+3N2,Yuqing,Liu,11,Female,Desfosses,A - 216,N,Day,returning
+3N2,Jiameng,Shen,11,Female,Desfosses,A - 216,N,Day,returning
+3N2,Gideon,Solomon,11,Male,Desfosses,A - 216,N,Day,returning
+3N2,Miriam,Tadros,11,Female,Desfosses,A - 216,W,Day,new
+3N2,Avery,Wacyk,11,Female,Desfosses,A - 216,N,Day,returning
+3N2,Kyle,Wilson,11,Male,Desfosses,A - 216,N,Day,returning
+3N3,Yousuf,Dhannoon,11,Male,James,L2 Skylight,N,Day,returning
+3N3,Sumiki,Hayashi,11,Female,James,L2 Skylight,N,Boarding,returning
+3N3,Chengyu,Ji,11,Male,James,L2 Skylight,N,Day,returning
+3N3,Catherine,Lawrence,11,Female,James,L2 Skylight,N,Day,returning
+3N3,Madelaine,Layton,11,Female,James,L2 Skylight,N,Day,returning
+3N3,Emily,Leha,11,Female,James,L2 Skylight,N,Day,returning
+3N3,Panagiotis,Menexis,11,Male,James,L2 Skylight,N,Day,returning
+3N3,Aidan,Routledge,11,Male,James,L2 Skylight,N,Day,returning
+3N3,Félix,Valiquette,11,Male,James,L2 Skylight,N,Day,returning
+3N3,Ella,Wilson,11,Female,James,L2 Skylight,N,Day,returning
+3N4,Md.Rayed,Al-Zarif,11,Male,Moore,A - 127,N,Day,new
+3N4,Alec,Dewulf,11,Male,Moore,A - 127,N,Boarding,new
+3N4,Abdoul,Diop,11,Male,Moore,A - 127,N,Boarding,new
+3N4,Usayd,Farooq,11,Male,Moore,A - 127,N,Day,new
+3N4,Uzair,Ishaq,11,Male,Moore,A - 127,N,Boarding,new
+3N4,Susana,Jost Macias,11,Female,Moore,A - 127,N,Boarding,new
+3N4,Benjamin,Maclennan,11,Male,Moore,A - 127,N,Day,new
+3N4,Sarah,Sidorchuk,11,Female,Moore,A - 127,N,Boarding,new
+3N4,Esther,Wegoye,11,Female,Moore,A - 127,N,Boarding,new
+3N4,Ainur,Zhabayeva,11,Female,Moore,A - 127,N,Boarding,new
+3W1,Iyinoluwa,Asekun,11,Female,Lackey,A - 213,W,Day,returning
+3W1,Chiamaka,Chukwunyere,11,Female,Lackey,A - 213,W,Boarding,returning
+3W1,Mathea,MacRae,11,Female,Lackey,A - 213,W,Day,returning
+3W1,Nicholas,Milin,11,Male,Lackey,A - 213,W,Day,returning
+3W1,Joao Pedro,Pereira Gonzalez,11,Male,Lackey,A - 213,W,Day,returning
+3W1,Hallie,Rainbow,11,Female,Lackey,A - 213,W,Day,returning
+3W1,George,Runoff,11,Male,Lackey,A - 213,W,Day,returning
+3W1,Chen-Jui,Shih,11,Male,Lackey,A - 213,W,Boarding,new
+3W1,Anh,Ta,11,Male,Lackey,A - 213,W,Boarding,returning
+3W1,Jiaqi,Wang,11,Male,Lackey,A - 213,W,Day,returning
+3W2,Patrick,Favret,11,Male,Oates,B - 105,W,Boarding,returning
+3W2,Ayaka,Fujikawa,11,Female,Oates,B - 105,W,Day,returning
+3W2,Ao,Gao,11,Male,Oates,B - 105,W,Boarding,new
+3W2,Mohammad,Ghazi,11,Male,Oates,B - 105,W,Boarding,returning
+3W2,Yuexuan,He,11,Female,Oates,B - 105,W,Boarding,returning
+3W2,Serena,Jetly,11,Female,Oates,B - 105,W,Day,returning
+3W2,Jimin,Lee,11,Male,Oates,B - 105,W,Day,returning
+3W2,William,Moffat,11,Male,Oates,B - 105,W,Day,returning
+3W2,Victoria,Ramirez,11,Female,Oates,B - 105,W,Day,returning
+3W2,Victor,Xiao,11,Male,Oates,B - 105,W,Day,returning
+3W3,Natalie,Clarke,11,Female,Grady,C - 004,W,Day,returning
+3W3,Xander,Fallis,11,Male,Grady,C - 004,W,Day,returning
+3W3,Sydney,Joos,11,Female,Grady,C - 004,W,Day,returning
+3W3,Zhaohang (Calvin),Liu,11,Male,Grady,C - 004,W,Day,returning
+3W3,Colin,Neujahr,11,Male,Grady,C - 004,W,Day,returning
+3W3,Gabrielle,Omoyinbo,11,Female,Grady,C - 004,W,Boarding,new
+3W3,Erin,Stacey,11,Female,Grady,C - 004,W,Day,new
+3W3,Zuer,Wang,11,Female,Grady,C - 004,W,Boarding,returning
+3W3,Tao,Wen,11,Male,Grady,C - 004,W,Boarding,new
+3W3,Platon,Yakushev,11,Male,Grady,C - 004,W,Day,returning
+3W4,Alexandra,Bila,11,Female,Huang,D - 113,W,Boarding,new
+3W4,Ibrahim,Cherif,11,Male,Huang,D - 113,W,Day,new
+3W4,Kam Wai,Cheung,11,Male,Huang,D - 113,W,Boarding,new
+3W4,Joshua,Eason,11,Male,Huang,D - 113,W,Boarding,new
+3W4,Olexandra,Gapon,11,Female,Huang,D - 113,W,Boarding,new
+3W4,Alexia,Karaiskos,11,Female,Huang,D - 113,W,Day,new
+3W4,Uriah,Lemann,11,Male,Huang,D - 113,W,Day,new
+3W4,Uwanga,Mushwana,11,Female,Huang,D - 113,W,Boarding,new
+3W4,Keir,Patrick,11,Male,Huang,D - 113,W,Day,new
+3W4,Ziyi,Wang,11,Male,Huang,D - 113,W,Boarding,new
+GA1,Adele,Chen,12,Female,Rashid,D - 109,A,Day,returning
+GA1,Nathan,Clark,12,Male,Rashid,D - 109,A,Day,returning
+GA1,Emily,Coffen,12,Female,Rashid,D - 109,A,Day,returning
+GA1,Nathanuel,El-Khoury,12,Male,Rashid,D - 109,A,Day,returning
+GA1,Anna,Kim,12,Female,Rashid,D - 109,A,Boarding,returning
+GA1,Alexa,Nasrallah,12,Female,Rashid,D - 109,A,Day,returning
+GA1,Harmanjot,Tumber,12,Male,Rashid,D - 109,A,Day,returning
+GA1,Minh Thu,Vo,12,Female,Rashid,D - 109,A,Day,returning
+GA1,Andrew,Wong,12,Male,Rashid,D - 109,A,Day,returning
+GA1,Jing,Xu,12,Male,Rashid,D - 109,A,Day,returning
+GA2,Huong,Bui,12,Female,Peries,A - 110,A,Boarding,returning
+GA2,Robyn,Fitch,12,Female,Peries,A - 110,A,Day,returning
+GA2,Matteo,Gaussorgues,12,Male,Peries,A - 110,A,Day,returning
+GA2,Laura,Guy,12,Female,Peries,A - 110,A,Day,returning
+GA2,Pham Thu Ngan,Mac,12,Female,Peries,A - 110,A,Boarding,returning
+GA2,Saad,Mahboob,12,Male,Peries,A - 110,A,Day,returning
+GA2,Mitchell,Mark-George,12,Male,Peries,A - 110,A,Day,returning
+GA2,Lucas,Sezlik,12,Male,Peries,A - 110,A,Day,returning
+GA2,Olivia,Taylor,12,Female,Peries,A - 110,A,Day,returning
+GA2,Ben,Vered,12,Male,Peries,A - 110,A,Day,returning
+GA3,Taylor,Ages,12,Female,Slater,C - 112,A,Day,returning
+GA3,Hugo,Alfredsson,12,Male,Slater,C - 112,A,Day,returning
+GA3,Ewan,Butterfield,12,Male,Slater,C - 112,A,Day,returning
+GA3,Jingyan,Han,12,Female,Slater,C - 112,A,Day,returning
+GA3,Mila,Mierins,12,Female,Slater,C - 112,A,Day,returning
+GA3,Brendan,O'Neill,12,Male,Slater,C - 112,A,Day,returning
+GA3,Érin,Périès,12,Female,Slater,C - 112,A,Day,returning
+GA3,Lilli,Potter-Dhieux,12,Female,Slater,C - 112,A,Day,returning
+GA3,Emma,Wagner,12,Female,Slater,C - 112,A,Day,returning
+GA3,Sakurako,Yoshida,12,Female,Slater,C - 112,A,Boarding,returning
+GA4,Malak,Abdulrahim,12,Female,Kerr,CLC,A,Day,returning
+GA4,Magali,Davila,12,Female,Kerr,CLC,A,Day,returning
+GA4,Jafaar,Hussien,12,Male,Kerr,CLC,A,Boarding,returning
+GA4,Fryderyk,Janowski,12,Male,Kerr,CLC,A,Boarding,returning
+GA4,Namon,Kanatharana,12,Female,Kerr,CLC,A,Boarding,returning
+GA4,Ririka,Kimura,12,Female,Kerr,CLC,A,Boarding,returning
+GA4,Aidan,O'Neill,12,Male,Kerr,CLC,A,Day,returning
+GA4,Maruf,Saki,12,Male,Kerr,CLC,A,Day,returning
+GA4,Inadum,Sira-Wiwa,12,Female,Kerr,CLC,A,Boarding,returning
+GA4,Matilda,Skovgaard,12,Female,Kerr,CLC,A,Day,returning
+GC1,Jordan,Auger,12,Male,Giansante,D - 102,C,Day,returning
+GC1,Anne,Chen,12,Female,Giansante,D - 102,C,Day,returning
+GC1,Kiersten,Hall,12,Female,Giansante,D - 102,C,Day,returning
+GC1,Ethan,Hewison,12,Male,Giansante,D - 102,C,Boarding,returning
+GC1,Chowdhry,Khan,12,Male,Giansante,D - 102,C,Day,returning
+GC1,Sarah,Lacroix-Hogan,12,Female,Giansante,D - 102,C,Day,returning
+GC1,Hok Yan,Lau,12,Female,Giansante,D - 102,C,Boarding,returning
+GC1,Thomas,McAdam,12,Male,Giansante,D - 102,C,Day,returning
+GC1,Rebecca,Muscant,12,Female,Giansante,D - 102,C,Day,returning
+GC1,Hannah,Saunders,12,Female,Giansante,D - 102,C,Day,returning
+GC1,Jamie,Turner-Patry,12,Female,Giansante,D - 102,C,Day,returning
+GC2,Max,Barker,12,Male,Lu,B - 104,C,Day,returning
+GC2,Makyla,Carr,12,Female,Lu,B - 104,C,Day,returning
+GC2,Sasha,Dilawri,12,Male,Lu,B - 104,C,Day,returning
+GC2,Isabela,Hernandez Oviedo,12,Female,Lu,B - 104,C,Day,returning
+GC2,David Ian,Hunter,12,Male,Lu,B - 104,C,Day,returning
+GC2,Haosen,Lin,12,Male,Lu,B - 104,C,Day,returning
+GC2,Ozioma,Molokwu,12,Female,Lu,B - 104,C,Boarding,returning
+GC2,Atil,Sakbas,12,Male,Lu,B - 104,C,Day,returning
+GC2,Hana,Samad,12,Female,Lu,B - 104,C,Day,returning
+GC2,Simran,Singh,12,Female,Lu,B - 104,C,Day,returning
+GC3,Joshua,Chafe,12,Male,Landon,C - 105a (Gym),C,Day,returning
+GC3,Lilia,Conde,12,Female,Landon,C - 105a (Gym),C,Day,returning
+GC3,Axel,Dalvi,12,Male,Landon,C - 105a (Gym),C,Day,returning
+GC3,Connor,Ernst,12,Male,Landon,C - 105a (Gym),C,Day,returning
+GC3,Arnav,Hiremath,12,Male,Landon,C - 105a (Gym),C,Day,returning
+GC3,Emma,Khatchadourian,12,Female,Landon,C - 105a (Gym),C,Day,returning
+GC3,Yixuan,Li,12,Female,Landon,C - 105a (Gym),C,Day,returning
+GC3,Hannah,Noll,12,Female,Landon,C - 105a (Gym),C,Day,returning
+GC3,Kaiarahi,Raina,12,Male,Landon,C - 105a (Gym),C,Day,returning
+GC3,Isabelle,Stevens,12,Female,Landon,C - 105a (Gym),C,Day,returning
+GC3,Yiran,Xie,12,Female,Landon,C - 105a (Gym),C,Day,returning
+GN1,Luke,Allan,12,Male,M. Holman,MHLO,N,Day,returning
+GN1,Jonah,Deutsch,12,Male,M. Holman,MHLO,N,Day,returning
+GN1,Tyler,Doyle-Chenard,12,Male,M. Holman,MHLO,N,Day,returning
+GN1,Naomi,Johnston,12,Female,M. Holman,MHLO,N,Day,returning
+GN1,Aishat,Lawal,12,Female,M. Holman,MHLO,N,Boarding,returning
+GN1,Yi Chen,Mao,12,Female,M. Holman,MHLO,N,Day,returning
+GN1,Oghale,Ovah,12,Male,M. Holman,MHLO,N,Boarding,returning
+GN1,Angelina,Perrin,12,Female,M. Holman,MHLO,N,Day,returning
+GN1,Galadrielle,Soulard,12,Female,M. Holman,MHLO,N,Day,returning
+GN1,Joshua,Thoppil,12,Male,M. Holman,MHLO,N,Day,returning
+GN1,Jarry,Wu,12,Male,M. Holman,MHLO,N,Day,returning
+GN2,Zachary,Bruketa,12,Male,Richardson,C - 001,N,Day,returning
+GN2,Armita,Dabirzadeh,12,Female,Richardson,C - 001,N,Day,returning
+GN2,Carter,Harris Fowell,12,Male,Richardson,C - 001,N,Day,returning
+GN2,Sasha,Jande,12,Male,Richardson,C - 001,N,Day,returning
+GN2,Sean,Joe-Ezigbo,12,Male,Richardson,C - 001,N,Boarding,returning
+GN2,Kyle,Mital,12,Male,Richardson,C - 001,N,Day,returning
+GN2,Mukazi,Ntagungira,12,Female,Richardson,C - 001,N,Boarding,returning
+GN2,Lorraine,Pereira,12,Female,Richardson,C - 001,N,Day,returning
+GN2,Yi Chen,Sui,12,Female,Richardson,C - 001,N,Boarding,returning
+GN2,Kanchaya,Wachiralappaitoon,12,Female,Richardson,C - 001,N,Boarding,returning
+GN3,Xristopher,Aliferis,12,Male,Boulianne,B - 102,N,Day,returning
+GN3,Elena,Cochen,12,Female,Boulianne,B - 102,N,Day,returning
+GN3,Kristi,Godkin,12,Female,Boulianne,B - 102,N,Day,returning
+GN3,Youran,Han,12,Male,Boulianne,B - 102,N,Day,returning
+GN3,Jaden,Kirkwood,12,Male,Boulianne,B - 102,N,Day,returning
+GN3,Hannah,Laquerre,12,Female,Boulianne,B - 102,N,Day,returning
+GN3,Brett,Mews,12,Male,Boulianne,B - 102,N,Day,returning
+GN3,Beatrice,Moen,12,Female,Boulianne,B - 102,N,Day,returning
+GN3,Katherine,Norton,12,Female,Boulianne,B - 102,N,Day,returning
+GN3,Pongwit,Phutragulpant,12,Male,Boulianne,B - 102,N,Boarding,returning
+GN3,Maizie,Solomon,12,Female,Boulianne,B - 102,N,Day,returning
+GW1,Mia,Amhal,12,Female,Kaye,C - 003,W,Boarding,returning
+GW1,Samuel-Olivier,Benloulou,12,Male,Kaye,C - 003,W,Day,returning
+GW1,Azra,Cankaya,12,Female,Kaye,C - 003,W,Day,returning
+GW1,Matthew,Cobden,12,Male,Kaye,C - 003,W,Day,new
+GW1,FangHe,Fu,12,Male,Kaye,C - 003,W,Day,returning
+GW1,Kylie,Fung,12,Female,Kaye,C - 003,W,Day,returning
+GW1,Santiago,Gomez Angulo,12,Male,Kaye,C - 003,W,Boarding,returning
+GW1,Layli,Parsi Boetig,12,Female,Kaye,C - 003,W,Day,returning
+GW1,Jai,Rana,12,Male,Kaye,C - 003,W,Day,returning
+GW1,Natasha,Souaid,12,Female,Kaye,C - 003,W,Day,returning
+GW1,Xiaolin,Wang,12,Male,Kaye,C - 003,W,Boarding,returning
+GW2,Rebecca,Abarbanel,12,Female,Quinn/McKirdy,B - 203,W,Day,returning
+GW2,Nicolas,Alonso Cobo,12,Male,Quinn/McKirdy,B - 203,W,Boarding,returning
+GW2,Olusegun,Asekun,12,Male,Quinn/McKirdy,B - 203,W,Day,returning
+GW2,Gregory,Efraim,12,Male,Quinn/McKirdy,B - 203,W,Day,returning
+GW2,Clara,Kabura,12,Female,Quinn/McKirdy,B - 203,W,,returning
+GW2,Faith,Mbakadi,12,Female,Quinn/McKirdy,B - 203,W,Boarding,returning
+GW2,Samuel,Michael,12,Male,Quinn/McKirdy,B - 203,W,Day,returning
+GW2,Jérémy,Olivier,12,Male,Quinn/McKirdy,B - 203,W,Day,returning
+GW2,Michaela,Stevenson,12,Female,Quinn/McKirdy,B - 203,W,Day,returning
+GW2,Yani,Tan,12,Female,Quinn/McKirdy,B - 203,W,Day,returning
+GW3,Toshka,Besharah-Hrebacka,12,Female,Turner,D - 112,W,Day,returning
+GW3,Junyi,Chen,12,Female,Turner,D - 112,W,Boarding,returning
+GW3,Ishaan,Dadlani,12,Male,Turner,D - 112,W,Day,returning
+GW3,Zoë,Gingras-Theriault,12,Female,Turner,D - 112,W,Day,returning
+GW3,Lauren,Ho,12,Female,Turner,D - 112,W,Day,returning
+GW3,Jonny,Imaniraguha,12,Female,Turner,D - 112,W,Boarding,returning
+GW3,Christopher,Neujahr,12,Male,Turner,D - 112,W,Day,returning
+GW3,Lucas,Pentland-Hyde,12,Male,Turner,D - 112,W,Day,new
+GW3,Mariia,Safonova,12,Female,Turner,D - 112,W,Boarding,returning
+GW3,Adam,Shaaban,12,Male,Turner,D - 112,W,Day,returning
+GW3,Reinis,Ustubs,12,Male,Turner,D - 112,W,Day,returning
+GW4,Isabella,Kaupp,12,Female,Lamont,C - 114,W,Boarding,returning
+GW4,Nicolas,Maly,12,Male,Lamont,C - 114,W,Boarding,returning
+GW4,Maya,Mcdaniel,12,Female,Lamont,C - 114,W,Day,new
+GW4,Mitchel,Meharchand,12,Male,Lamont,C - 114,W,Day,returning
+GW4,Alia,Mohamed,12,Female,Lamont,C - 114,W,Day,returning
+GW4,Naif,Mohammed,12,Male,Lamont,C - 114,W,Day,returning
+GW4,David,Okpo,12,Male,Lamont,C - 114,W,Boarding,returning
+GW4,Nicola,Pignatti Morano,12,Male,Lamont,C - 114,W,Boarding,returning
+GW4,Morena,Piza Maia dos Santos,12,Female,Lamont,C - 114,W,Day,returning
+GW4,Isabelle Yew Pei,Seow,12,Female,Lamont,C - 114,W,Day,returning
