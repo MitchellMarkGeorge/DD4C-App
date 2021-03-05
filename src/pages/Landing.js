@@ -16,7 +16,12 @@ export default function Landing(props) {
   return (
     <Center>
       <Box textAlign="center" display="block">
-        <Heading color="#47B881" size={900} marginBottom="1rem">
+        <Heading
+          fontWeight="bold"
+          color="#47B881"
+          size={900}
+          marginBottom="1rem"
+        >
           DD4C App
         </Heading>
         <Paragraph fontSize="1rem" marginBottom="1rem" color="muted">

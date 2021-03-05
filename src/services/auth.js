@@ -1,9 +1,9 @@
 import { auth } from "./firebase";
-
-export function signup(email, password) {
+// auth helpers
+export function signUp(email, password) {
   return auth.createUserWithEmailAndPassword(email, password);
 }
 
-export function signin(email, password) {
+export function logIn(email, password) {
   return auth.signInWithEmailAndPassword(email, password);
 }

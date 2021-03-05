@@ -13,6 +13,8 @@ import Landing from "./pages/Landing";
 import { auth } from "./services/firebase";
 import { ROUTES } from "./services/routes";
 import Loading from "./components/Loading";
+import Success from "./pages/Success";
+import Error from "./pages/Error";
 
 function PrivateRoute({ component: Component, authenticated, ...rest }) {
   return (
@@ -71,7 +73,8 @@ class App extends Component {
     });
   }
 
-  render() { // FIX ROUTING ISSUE
+  render() {
+    
     if (this.state.isLoading) {
       return <Loading />;
     } else {
@@ -82,17 +85,27 @@ class App extends Component {
 
             <PrivateRoute
               path={ROUTES.SCANNER}
-              authenticated={this.state.authenticated}
+              authenticated={this.state.isAuthenticated}
               component={ScannerPage}
+            ></PrivateRoute>
+            <PrivateRoute
+              path={ROUTES.SUCCESS}
+              authenticated={this.state.isAuthenticated}
+              component={Success}
+            ></PrivateRoute>
+            <PrivateRoute
+              path={ROUTES.ERROR}
+              authenticated={this.state.isAuthenticated}
+              component={Error}
             ></PrivateRoute>
             <PublicRoute
               path={ROUTES.SIGN_UP}
-              authenticated={this.state.authenticated}
+              authenticated={this.state.isAuthenticated}
               component={Signup}
             ></PublicRoute>
             <PublicRoute
               path={ROUTES.LOGIN}
-              authenticated={this.state.authenticated}
+              authenticated={this.state.isAuthenticated}
               component={Login}
             ></PublicRoute>
           </Switch>
