@@ -1,5 +1,5 @@
-[context.production.environment]
-  REACT_APP_SECRET_PASSWORD=ashbury21
+[context.production]
+  environment = { REACT_APP_SECRET_PASSWORD = ashbury21 }
 
 [[redirects]]
   from = "/*"
