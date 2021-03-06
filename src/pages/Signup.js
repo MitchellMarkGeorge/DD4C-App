@@ -42,7 +42,7 @@ export default function SignUp() {
         >
           Sign Up
         </Heading>
-        <Paragraph textAlign="center" marginBottom color="muted">
+        <Paragraph textAlign="center" marginBottom="1rem" color="muted">
           ONLY CE Council
         </Paragraph>
         <TextInputField

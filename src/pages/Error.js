@@ -24,7 +24,7 @@ export default function Error(props) {
         </Heading>
 
         <Paragraph color="#fff" marginBottom="1rem">
-          There was an error. The student might already be registered. Try and
+          There was an error. The student's code might already be scanned. Try and
           scan the code again.
         </Paragraph>
 

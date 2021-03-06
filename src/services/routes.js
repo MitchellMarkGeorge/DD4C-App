@@ -5,4 +5,5 @@ export const ROUTES = {
   SIGN_UP: "/signup",
   SUCCESS: "/success",
   ERROR: "/error",
+  LIVE: "/live",
 };

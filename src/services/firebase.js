@@ -2,7 +2,9 @@ import firebase from 'firebase/app';
 import "firebase/auth";
 import "firebase/database";
 import "firebase/analytics";
-
+// confirm firebase rules work (variable node)
+//Heroku?
+// remove indexing?
 const firebaseConfig = {
     apiKey: "AIzaSyDxBi6d2FvNaOjax4k4CAWknjUDfMhG00s",
     authDomain: "dd4c-88f01.firebaseapp.com",

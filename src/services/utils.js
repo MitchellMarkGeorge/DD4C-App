@@ -1,6 +1,6 @@
 import CryptoJS from "crypto-js";
 
-export function getDBPath() {
+ function getDBPath() {
     // function to get path for database node
     // this makes sure student participation is registered on the right day
   const date = new Date().getDate();
@@ -17,3 +17,5 @@ export function decryptObject(encryptedStudentData) {
     const decryptedStudentData = JSON.parse(bytes.toString(CryptoJS.enc.Utf8));
     return decryptedStudentData;
 }
+
+export const CURRENT_DAY_DB_PATH = getDBPath();

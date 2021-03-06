@@ -3,6 +3,7 @@ import Center from "../components/Center";
 import Box from "ui-box";
 import { Heading, Button, Paragraph } from "evergreen-ui";
 import { ROUTES } from "../services/routes";
+// import { auth } from "../services/firebase";
 
 export default function Landing(props) {
   const goToLogin = () => {
@@ -37,6 +38,25 @@ export default function Landing(props) {
           >
             Log In
           </Button>
+
+          {/* <Button
+            type="submit"
+            textAlign="center"
+            appearance="primary"
+            intent="success"
+            onClick={async () => {
+              if (auth.currentUser) {
+                await auth.signOut();
+              console.log("Done")
+              } else {
+                console.log("No user")
+              }
+              
+            }}
+          >
+            Sign Out
+          </Button> */}
+
           <Button
             appearance="primary"
             intent="success"

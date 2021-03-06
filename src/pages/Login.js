@@ -1,10 +1,11 @@
 import React from "react";
 import Center from "../components/Center";
 import { Link as RouterLink } from "react-router-dom";
-import { Heading, TextInputField, Button, toaster, Link } from "evergreen-ui";
+import { Heading, TextInputField, Button, toaster, Link, Paragraph } from "evergreen-ui";
 import { logIn } from "../services/auth";
 import Box from "ui-box";
 import { ROUTES } from "../services/routes";
+
 
 export default function Login() { // restrict login???
   const [email, setEmail] = React.useState("");
@@ -35,6 +36,9 @@ export default function Login() { // restrict login???
         >
           Login
         </Heading>
+        <Paragraph textAlign="center" marginBottom="1rem" color="muted">
+          ONLY CE Council
+        </Paragraph>
         <TextInputField
           name="email"
           required
@@ -65,6 +69,7 @@ export default function Login() { // restrict login???
           >
             Log In
           </Button>
+
 
           <Box marginTop="1rem">
             <Link

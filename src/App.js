@@ -15,6 +15,7 @@ import { ROUTES } from "./services/routes";
 import Loading from "./components/Loading";
 import Success from "./pages/Success";
 import Error from "./pages/Error";
+import Live from "./pages/Live";
 
 function PrivateRoute({ component: Component, authenticated, ...rest }) {
   return (
@@ -59,7 +60,8 @@ class App extends Component {
 
   componentDidMount() {
     auth.onAuthStateChanged((user) => {
-      if (user) {
+      if (user && !user.isAnonymous) {
+        // only users with passwords and email accounts can access those pages
         this.setState({
           isAuthenticated: true,
           isLoading: false,
@@ -74,7 +76,6 @@ class App extends Component {
   }
 
   render() {
-    
     if (this.state.isLoading) {
       return <Loading />;
     } else {
@@ -82,7 +83,8 @@ class App extends Component {
         <Router>
           <Switch>
             <Route exact path="/" component={Landing} />
-
+            {/* should this be a public/private route */}
+            <Route exact path={ROUTES.LIVE} component={Live} />
             <PrivateRoute
               path={ROUTES.SCANNER}
               authenticated={this.state.isAuthenticated}
