@@ -5,8 +5,8 @@ import { db } from "../services/firebase";
 import { CURRENT_DAY_DB_PATH, decryptObject } from "../services/utils";
 import Box from "ui-box";
 import { ROUTES } from "../services/routes";
+import * as Sentry from "@sentry/react";
 
-// console.log(process.env.REACT_APP_SECRET_PASSWORD)
 
 const currentDayRef = db.ref(CURRENT_DAY_DB_PATH);
 
@@ -15,6 +15,7 @@ export default function ScannerPage(props) {
 
   const onError = (err) => {
     console.log(err);
+    Sentry.captureException(err); // have to before history.push as component will be unmounted
     props.history.push(ROUTES.ERROR);
   };
 
@@ -23,16 +24,28 @@ export default function ScannerPage(props) {
       setIsLoading(true);
 
       const decryptedStudentData = decryptObject(result);
-      
+      const { id } = decryptedStudentData;
+
       try {
-       
+        const snapshot = await currentDayRef
+          .orderByChild("id")
+          .equalTo(id)
+          .once("value");
+        if (snapshot.exists()) {
+          // checks if the student has already been scanned
+          // if the student hasn't been scanned (meaning they dont exist in the database), it is added to the database
+          // if not, the error page is shown (meaning theyr were scanned/ in the database)
+          props.history.push(ROUTES.ERROR);
+        } else {
           await currentDayRef.push(decryptedStudentData);
           props.history.push(ROUTES.SUCCESS);
+        }
         // }
       } catch (error) {
-        // it should throw an error if the student has already been (within that day)
         console.log(error);
+        Sentry.captureException(error);
         props.history.push(ROUTES.ERROR);
+        
       }
     }
   };

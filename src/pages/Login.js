@@ -5,7 +5,7 @@ import { Heading, TextInputField, Button, toaster, Link, Paragraph } from "everg
 import { logIn } from "../services/auth";
 import Box from "ui-box";
 import { ROUTES } from "../services/routes";
-
+import * as Sentry from "@sentry/react";
 
 export default function Login() { // restrict login???
   const [email, setEmail] = React.useState("");
@@ -22,6 +22,7 @@ export default function Login() { // restrict login???
       console.log(e);
       setIsLoading(false);
       toaster.danger(e.message);
+      Sentry.captureException(e);
     }
   };
 

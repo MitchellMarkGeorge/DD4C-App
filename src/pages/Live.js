@@ -16,30 +16,26 @@ export default class Live extends Component {
   }
 
   async componentDidMount() {
-    // alert(auth.currentUser)
+ 
     if (!auth.currentUser) { // this is for both CE members and general public
         // this is needed as only authenicated users can read from db
         // if CE member goes to this this page first and then goes to sign in,
-        // their normal password account should repalce it
+        // their normal password account should repalce the anomunous account
         await auth.signInAnonymously();
-        // alert("signed in");
-    } else {
-        console.log("Already signed in", auth.currentUser.isAnonymous);
-    }
+        
+    } 
 
     db.ref(CURRENT_DAY_DB_PATH).on("value", (students) => {
         
-    //   console.log(students.exists());
+    
     
       if (!students.exists()) return;
 
-      // if (!students.exists()) {
-      //     this.setState({ data: null });
-      // }
+     
       const data = {};
       students.forEach((snapshot) => {
         const student = snapshot.val();
-        // console.log(student)
+        
         const { house } = student;
         if (!data[house]) {
           data[house] = { number: 1, color: this.getHouseColor(house) };
@@ -47,13 +43,12 @@ export default class Live extends Component {
           data[house].number += 1;
         }
       });
-      console.log(data);
+      
       this.setState({ data: this.formatData(data) });
     });
   }
 
   formatData(data) {
-    console.log(Object.values(data).map((house) => house.number));
     return {
       labels: Object.keys(data).map((house) => this.getHouseName(house)),
       datasets: [
@@ -93,7 +88,7 @@ export default class Live extends Component {
         return "Woollcombe";
 
       default:
-        return "#F9F9FB";
+        return "N/A";
     }
   };
   render() {
