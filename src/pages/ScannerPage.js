@@ -7,7 +7,6 @@ import Box from "ui-box";
 import { ROUTES } from "../services/routes";
 import * as Sentry from "@sentry/react";
 
-
 const currentDayRef = db.ref(CURRENT_DAY_DB_PATH);
 
 export default function ScannerPage(props) {
@@ -33,8 +32,8 @@ export default function ScannerPage(props) {
           .once("value");
         if (snapshot.exists()) {
           // checks if the student has already been scanned
-          // if the student hasn't been scanned (meaning they dont exist in the database), it is added to the database
-          // if not, the error page is shown (meaning theyr were scanned/ in the database)
+          // if the student hasn't been scanned (meaning they dont exist in the database on that day), it is added to the database
+          // if not, the error page is shown (meaning they were scanned/ in the database on that day)
           props.history.push(ROUTES.ERROR);
         } else {
           await currentDayRef.push(decryptedStudentData);
@@ -45,7 +44,6 @@ export default function ScannerPage(props) {
         console.log(error);
         Sentry.captureException(error);
         props.history.push(ROUTES.ERROR);
-        
       }
     }
   };

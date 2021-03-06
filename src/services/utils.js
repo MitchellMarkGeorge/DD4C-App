@@ -13,7 +13,7 @@ import CryptoJS from "crypto-js";
 
 export function decryptObject(encryptedStudentData) {
     // decrypts object from QR code
-    const bytes = CryptoJS.AES.decrypt(encryptedStudentData, process.env.REACT_APP_SECRET_PASSWORD);
+    const bytes = CryptoJS.AES.decrypt(encryptedStudentData, process.env.REACT_APP_SECRET_PASSWORD || "ashbury21"); // cant afford to have errors. just in case
     const decryptedStudentData = JSON.parse(bytes.toString(CryptoJS.enc.Utf8));
     return decryptedStudentData;
 }
