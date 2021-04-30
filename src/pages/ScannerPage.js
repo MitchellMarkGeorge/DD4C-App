@@ -19,6 +19,7 @@ export default function ScannerPage(props) {
   };
 
   const onScan = async (result) => {
+    // console.log(result);
     if (result && typeof result === "string") {
       setIsLoading(true);
 

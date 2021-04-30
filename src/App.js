@@ -60,8 +60,10 @@ class App extends Component {
 
   componentDidMount() {
     auth.onAuthStateChanged((user) => {
+      // only non anonymous users have access to scanner
       if (user && !user.isAnonymous) {
         // only users with passwords and email accounts can access those pages
+        
         this.setState({
           isAuthenticated: true,
           isLoading: false,
@@ -83,8 +85,8 @@ class App extends Component {
         <Router>
           <Switch>
             <Route exact path="/" component={Landing} />
-            {/* should this be a public/private route */}
             <Route exact path={ROUTES.LIVE} component={Live} />
+            {/* Exact might not be needed: https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path */}
             <PrivateRoute
               path={ROUTES.SCANNER}
               authenticated={this.state.isAuthenticated}
@@ -101,7 +103,7 @@ class App extends Component {
               component={Error}
             ></PrivateRoute>
             <PublicRoute
-              path={ROUTES.SIGN_UP}
+              path={ROUTES.SIGN_UP} // disable this page 
               authenticated={this.state.isAuthenticated}
               component={Signup}
             ></PublicRoute>

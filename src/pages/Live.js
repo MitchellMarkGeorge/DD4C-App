@@ -2,9 +2,10 @@ import React, { Component } from "react";
 import { db, auth } from "../services/firebase";
 import { CURRENT_DAY_DB_PATH } from "../services/utils";
 import Center from "../components/Center";
-import Box from "ui-box"
+import Box from "ui-box";
 import { Pie } from "react-chartjs-2";
 import { Paragraph, Heading } from "evergreen-ui";
+import * as Sentry from "@sentry/react";
 
 export default class Live extends Component {
   constructor(props) {
@@ -16,36 +17,39 @@ export default class Live extends Component {
   }
 
   async componentDidMount() {
- 
-    if (!auth.currentUser) { // this is for both CE members and general public
-        // this is needed as only authenicated users can read from db
-        // if CE member goes to this this page first and then goes to sign in,
-        // their normal password account should repalce the anomunous account
-        await auth.signInAnonymously();
-        
-    } 
+    if (!auth.currentUser) {
+      // this is for both CE members and general public
+      // this is needed as only authenicated users can read from db
+      // if CE member goes to this this page first and then goes to sign in,
+      // their normal password account should repalce the anomunous account
+      await auth.signInAnonymously();
+    }
 
-    db.ref(CURRENT_DAY_DB_PATH).on("value", (students) => {
-        
-    
-    
-      if (!students.exists()) return;
+    db.ref(CURRENT_DAY_DB_PATH).on(
+      "value",
+      (students) => {
+        if (!students.exists()) return;
 
-     
-      const data = {};
-      students.forEach((snapshot) => {
-        const student = snapshot.val();
-        
-        const { house } = student;
-        if (!data[house]) {
-          data[house] = { number: 1, color: this.getHouseColor(house) };
-        } else {
-          data[house].number += 1;
-        }
-      });
-      
-      this.setState({ data: this.formatData(data) });
-    });
+        const data = {};
+        students.forEach((snapshot) => {
+          const student = snapshot.val();
+
+          const { house } = student;
+          if (!data[house]) {
+            data[house] = { number: 1, color: this.getHouseColor(house) };
+          } else {
+            data[house].number += 1;
+          }
+        });
+
+        this.setState({ data: this.formatData(data) });
+      },
+      (err) => {
+        // error callback
+        console.log(err);
+        Sentry.captureException(err);
+      }
+    );
   }
 
   formatData(data) {
@@ -96,8 +100,15 @@ export default class Live extends Component {
       <Center>
         {this.state.data ? (
           <Box textAlign="center">
-              <Heading marginBottom="1rem" fontWeight="bold" size={900} color="#47B881" >Live DD4C Results</Heading>
-            <Pie data={this.state.data} height={300}/>
+            <Heading
+              marginBottom="1rem"
+              fontWeight="bold"
+              size={900}
+              color="#47B881"
+            >
+              Live DD4C Results
+            </Heading>
+            <Pie data={this.state.data} height={300} />
           </Box>
         ) : (
           <Paragraph fontSize="1rem" color="muted">

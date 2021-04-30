@@ -3,6 +3,7 @@ import "firebase/auth";
 import "firebase/database";
 import "firebase/analytics";
 // confirm firebase rules work (variable node)
+// .indexOn!!!
 //Heroku?
 // remove indexing?
 const firebaseConfig = {

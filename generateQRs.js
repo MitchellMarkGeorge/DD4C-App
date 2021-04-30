@@ -6,7 +6,7 @@ const QR = require("qrcode");
 require("dotenv").config();
 const archiver = require("archiver");
 const CryptoJS = require("crypto-js");
-const { v4: uuidv4 } = require('uuid');
+const { v4: uuidv4 } = require("uuid");
 let TAGS = {};
 const BASE_PATH = path.join(os.homedir(), "DD4C QR Codes");
 

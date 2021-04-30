@@ -14,6 +14,7 @@ import Box from "ui-box";
 import { ROUTES } from "../services/routes";
 import * as Sentry from "@sentry/react";
 
+
 export default function SignUp() {
   const [email, setEmail] = React.useState("");
   const [password, setPassword] = React.useState("");
